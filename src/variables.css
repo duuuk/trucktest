@@ -1,0 +1,80 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 27 Jun 2023 04:56:43 GMT
+ */
+
+:root {
+  --colors-grey-10: #f0f0f5;
+  --colors-grey-20: #e1e1ea;
+  --colors-grey-30: #d2d3df;
+  --colors-grey-40: #c3c4d5;
+  --colors-grey-50: #b4b6c9;
+  --colors-grey-60: #a6a8be;
+  --colors-grey-70: #989ab2;
+  --colors-grey-80: #8a8da5;
+  --colors-grey-90: #7d8099;
+  --colors-grey-100: #70738b;
+  --colors-grey-200: #64667e;
+  --colors-grey-300: #575a70;
+  --colors-grey-400: #4c4e62;
+  --colors-grey-500: #404253;
+  --colors-grey-600: #353745;
+  --colors-grey-700: #2b2c37;
+  --colors-grey-800: #202129;
+  --colors-grey-900: #17171c;
+  --colors-grey-brand: #191d31;
+  --colors-red-10: #ffe8e5;
+  --colors-red-20: #ffd0cb;
+  --colors-red-30: #ffb9b3;
+  --colors-red-40: #ffa19c;
+  --colors-red-50: #ff8886;
+  --colors-red-60: #ff7072;
+  --colors-red-70: #ff5760;
+  --colors-red-80: #ff3d51;
+  --colors-red-90: #fc1e43;
+  --colors-red-100: #eb0037;
+  --colors-red-200: #d9002d;
+  --colors-red-300: #c40024;
+  --colors-red-400: #ae001d;
+  --colors-red-500: #950018;
+  --colors-red-600: #7d0014;
+  --colors-red-700: #630010;
+  --colors-red-800: #4a050b;
+  --colors-red-900: #310a06;
+  --colors-orange-10: #ffeae1;
+  --colors-orange-20: #ffd5c4;
+  --colors-orange-30: #ffc1a8;
+  --colors-orange-40: #ffad8d;
+  --colors-orange-50: #ff9875;
+  --colors-orange-60: #ff855e;
+  --colors-orange-70: #fa734a;
+  --colors-orange-80: #ee6138;
+  --colors-orange-90: #e15129;
+  --colors-orange-100: #d1421c;
+  --colors-orange-200: #bf3510;
+  --colors-orange-300: #ac2a08;
+  --colors-orange-400: #982104;
+  --colors-orange-500: #831b01;
+  --colors-orange-600: #6d1700;
+  --colors-orange-700: #571500;
+  --colors-orange-800: #421200;
+  --colors-orange-900: #2c0f00;
+  --colors-orange-brand: #fd683d;
+  --black: #000000;
+  --white: #ffffff;
+  --shadow-blur-xl: 80;
+  --shadow-x-default: 0;
+  --shadow-y-sm: 4;
+  --shadow-light: #d2d3df;
+  --shadow-dark: #202129;
+  --shadow-topnav-light-x: 0px;
+  --shadow-topnav-light-y: 4px;
+  --shadow-topnav-light-blur: 80px;
+  --shadow-topnav-light-spread: 0px;
+  --shadow-topnav-light-color: #d2d3df;
+  --shadow-topnav-light-type: dropShadow;
+  --bg-default: #ffffff;
+  --fg-default: #17171c;
+  --fg-subtle: #70738b;
+  --border-default: #b4b6c9;
+}

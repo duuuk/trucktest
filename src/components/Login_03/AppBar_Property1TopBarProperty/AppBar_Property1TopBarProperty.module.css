@@ -1,0 +1,14 @@
+.bottomBar.bottomBar {
+  right: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 34px;
+  align-items: flex-start;
+}

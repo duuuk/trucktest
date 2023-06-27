@@ -1,0 +1,18 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+}
+.line {
+  position: absolute;
+  left: 50%;
+  bottom: 8px;
+  width: 135px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #000;
+  transform: translateX(-50%);
+}

@@ -1,0 +1,41 @@
+.profile.profile {
+  right: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+  overflow: hidden;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.vector {
+  position: absolute;
+  left: 13.9364%;
+  right: 29.2303%;
+  top: 63.2813%;
+  bottom: 0.7917%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 23.1649%;
+  right: 39.8351%;
+  top: 16.6667%;
+  bottom: 46.375%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}

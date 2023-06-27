@@ -1,0 +1,77 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+}
+.body {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+.placeholder {
+  color: #191d31;
+  font-size: 16px;
+  line-height: 130%;
+  font-family: Avenir, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.form {
+  position: relative;
+  width: 327px;
+  height: 52px;
+  align-items: flex-start;
+}
+.rectangle33 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 327px;
+  height: 52px;
+  outline: solid 1px #f3f3f3;
+  outline-offset: 0px;
+  border-radius: 12px;
+  background-color: #fff;
+}
+.textArea {
+  position: absolute;
+  left: 14px;
+  top: 14px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+}
+.frame51080 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 14px;
+}
+.placeholder2 {
+  color: #191d31;
+  font-size: 14px;
+  line-height: 180%;
+  font-family: Avenir, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 237px;
+  height: min-content;
+  flex-direction: column;
+}
+.helperText {
+  color: #8c8e98;
+  font-size: 12px;
+  line-height: 180%;
+  font-weight: 500;
+  font-family: Avenir, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
